@@ -17,7 +17,7 @@ A desktop-based restaurant management application built with Python and PyQt5. I
 - GUI Framework: PyQt5
 
 📁 How to Run
-git clone https://github.com/abdullahfayyaz/restaurant-management-system.git
+git clone https://github.com/abdullahfayyaz/Restaurant-Management-System.git
 pip install -r requirements.txt
 python main.py
 Make sure Python 3.11+ and PyQt5 are installed.
